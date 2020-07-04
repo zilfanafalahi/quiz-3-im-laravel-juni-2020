@@ -87,5 +87,5 @@ Pastikan alur CRUD artikel berjalan seperti alur CRUD biasanya. Gambarannya adal
 ## 7. Tampilan Tag Artikel (15 poin)
 Tampilkanlah detil artikel di route ```'/artikel/{id}'``` seperti berikut: 
 
-![detil-artikel](detilartikel.png)
+![detil-artikel](detilartikel.PNG)
 Catatan: Data yang ditampilkan hanya contoh, sesuaikan data pada tabel artikel sehingga tampilannya seperti gambar contoh. Data tag ditampilkan dengan button-button terpisah.
