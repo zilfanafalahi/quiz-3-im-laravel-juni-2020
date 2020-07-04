@@ -72,7 +72,8 @@ Buatlah controller untuk mengatur fitur CRUD artikel.
     })
 </script>
 ```
-- Jika pemasangan script pada poin sebelumnya berhasil maka akan menampilkan alert seperti ini di halaman courses tersebut: 
+- Jika pemasangan script pada poin sebelumnya berhasil maka akan menampilkan alert seperti ini di halaman courses tersebut:
+
 ![swal-example.gif](swal-example.gif?raw=true)
 
 ## 6. Alur CRUD (10 poin)
